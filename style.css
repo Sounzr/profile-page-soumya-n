@@ -1,0 +1,119 @@
+/* Write some CSS below */
+
+/*General CSS properties */
+
+Body {
+    background-color: ivory;
+    text-align: center;
+    text-decoration: none;
+    font-size: 32 px;
+    color: rosybrown;
+}
+
+/*  class img-circle */
+.img-circle {
+border-radius: 50%;
+width: 200px;
+height: 200px;
+object-fit: cover;
+}
+
+.img-square {
+
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+h1 {
+    letter-spacing: 5px;
+}
+
+h1 h2 {
+    color: rosybrown;
+}
+
+.card-pink {
+    background-color:linen;
+    border-radius: 5px;
+    box-shadow: 0px 10px 20px rgba(149, 78, 7, 0.452);
+    padding: 40px;  
+    text-align: center;
+    margin: 60px 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+#learn-more {
+    text-decoration: none;
+    color: sienna;
+    border-radius: 5px;
+    padding: 15px 25px;
+    font-weight: 900;
+    transition: 0.5s;
+}
+
+#learn-more:hover {
+    background-color: indianred;
+    color: ivory;
+}
+
+.container {
+    width: 800px;
+    margin: 20px auto;
+}
+
+.list-inline {
+    display: inline;
+    padding-left: 0;
+}
+
+.list-inline li {
+    display: inline;
+}
+
+.list-inline li i {
+    font-size: 60px;
+    color: sienna;
+    margin: 0 5px;
+}
+
+.img-circle {
+    border-radius: 50%;
+    height : 200px;
+    height : 200px;
+    object-fit: cover;
+}
+
+.list-travel {
+    display: inline;
+    padding-left: 0;
+}
+
+.list-travel li {
+    display: inline;
+}
+
+.list-travel li i {
+    font-size: 60px;
+    color: burlywood;
+    margin: 0 5px;
+}
+
+.list-restaurants {
+    display: inline;
+    padding-left: 0;
+}
+
+.list-restaurants li {
+    display: inline;
+}
+
+.list-restaurants li i {
+    font-size: 60px;
+    color: burlywood;
+    margin: 0 5px;
+}
+
